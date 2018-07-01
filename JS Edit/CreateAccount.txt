@@ -1,0 +1,9 @@
+<!-- Create account form-->	
+<div id="myDIV2" style="position:relative;text-align: center;">
+        <form style="position: absolute;font-size:11px;font-family: 'Lucida Grande';top: 20px; left: 0px;text-align: left;">Email:<br><input type="text" name="email"><br>Password:<br><input type="text" name="password"></form>
+        <button type="button" class="btn btn-default" style="position: absolute;font-size:11px;font-family: 'Lucida Grande'; top: 100px; left:0px;">Create Account ></button>
+        <p style="position: absolute;font-size:11px;font-family: 'Lucida Grande';top: 20px; right: 195px;">Upgrade to Pro for $10</p>
+        <p style="position: absolute;font-size:11px;font-family: 'Lucida Grande';top: 32px; right: 195px;">Yes<input type="checkbox" name="upgrade" value="yes"><br></p>
+        <div style="position:relative;border-left:1px solid grey;height:80px;top:25px;left:320px;"></div>
+        <p style="position: absolute;font-size:11px;font-family: 'Lucida Grande';top: 24px; left: -300px;">3. Create an Account to save your progress <span class="animate">></span></p>
+</div>

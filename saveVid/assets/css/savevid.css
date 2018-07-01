@@ -1,0 +1,114 @@
+body{
+  background:black;
+}
+
+input.c-input{
+
+}
+
+div.head-div{
+  color:white;
+  margin-top:50px;
+}
+
+div.head-div h1{
+  font-size:60px;
+}
+
+div.search-div{
+  width:750px;
+  margin:0 auto 10px;
+}
+
+input.form-control{
+  background:transparent;
+  border:3px solid white;
+  height:40px;
+  border-right:none;
+  border-radius:0px;
+ 
+}
+
+input.form-control:focus{
+  border-color:white;
+  border-radius:0px;
+ 
+}
+
+button.btn.btn-default{
+  height:40px;
+  width:80px;
+  background:white;
+  border-radius:0;
+  color:black;
+  font-size:20px;
+}
+
+div.input-group{
+  margin-top:30px;
+}
+
+input::-webkit-input-placeholder{
+  color:white !important;
+  font-size:20px;
+  font-weight:800;
+}
+
+input::-moz-input-placeholder{
+  color:white !important;
+  font-size:20px;
+  font-weight:800;
+}
+
+input:-moz-input-placeholder{
+  color:white !important;
+  font-size:20px;
+  font-weight:800;
+}
+
+input:-ms-input-placeholder{
+  color:white !important;
+  font-size:20px;
+  font-weight:800;
+}
+
+input:-ms-input-placeholder{
+  color:white !important;
+  font-size:20px;
+  font-weight:800;
+}
+
+div.top-ad-1{
+  width:728px;
+  height:90px;
+  margin:0 auto 10px;
+  margin-top:20px;
+  background:rgb(0,250,0);
+}
+textarea{
+	color:white;
+}
+div.top-ad-2{
+  width:728px;
+  height:90px;
+  margin:0 auto 10px;
+  margin-top:20px;
+    background:rgb(0,250,0);
+}
+
+div.left-ad{
+  width:300px;
+  height:600px;
+  position:absolute;
+  background:rgb(0,250,0);  
+}
+
+div.right-ad{
+  width:300px;
+  height:600px;
+  position:absolute;
+  right:0px;
+  top:20px;
+  background:rgb(0,250,0);
+  }
+
